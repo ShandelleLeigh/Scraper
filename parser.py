@@ -1,9 +1,9 @@
 import re
-import sys
+# import sys
 from pathlib import Path
-import os
-import shutil
-import fileinput
+# import os
+# import shutil
+# import fileinput
 
 
 original_path = Path("scribed.html").resolve();
