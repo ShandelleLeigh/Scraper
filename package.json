@@ -1,0 +1,30 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Scrape a doc off of scribd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShandelleLeigh/Scraper.git"
+  },
+  "keywords": [
+    "Scraper",
+    "web",
+    "python",
+    "typescript",
+    "ts"
+  ],
+  "author": "ShandelleLeigh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShandelleLeigh/Scraper/issues"
+  },
+  "homepage": "https://github.com/ShandelleLeigh/Scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "ts-node": "^10.9.2"
+  }
+}
