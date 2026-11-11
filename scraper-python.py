@@ -1,6 +1,7 @@
 # scraper-python.py
 # To run this script, paste `python scraper-python.py` in the terminal
 
+import bs4
 import requests
 import subprocess
 import sys

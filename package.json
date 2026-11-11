@@ -26,6 +26,7 @@
   "dependencies": {
     "cheerio": "^1.2.0",
     "glob": "^14.0.4",
+    "globals": "^17.14.0",
     "inflight": "^1.0.6",
     "ts-node": "^10.9.2"
   },
